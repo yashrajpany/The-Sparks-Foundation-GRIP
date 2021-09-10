@@ -187,7 +187,7 @@ tabToOpen
         console.log('Logo Found')
         let promiseClickLogo = promiseLogo.click()
        
-        console.log('Arrived to Home page')
+        console.log('Arrived back to Home page')
     })
     
     .catch(function (err) {
